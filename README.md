@@ -12,6 +12,7 @@ undoとredoを視覚的に分かりやすくするために作りました。
 |OPERATE|操作をする|
 |UNDO|UNDOする|
 |REDO|REDOする|
+|RESET|最初の状態に戻す|
 
 ## 変数 - variables
 |変数名|型|説明|
