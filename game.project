@@ -13,4 +13,5 @@ input_method = HiddenInputField
 
 [project]
 title = unredo
+version = 1.2
 
